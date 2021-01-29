@@ -142,7 +142,11 @@
   margin-bottom: 10px;
 }
 .card-img-top {
-  width: auto !important;
+  width: 10px;
+}
+.card-img-foot
+{
+  width: 50%;
 }
 .other-card {
   border: none !important;
